@@ -1,0 +1,2 @@
+# SophIA
+APP Finanzas Personal
